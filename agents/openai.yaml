@@ -1,0 +1,7 @@
+interface:
+  display_name: "Academic Writing Rhetoric"
+  short_description: "Academic section writing and revision coach"
+  default_prompt: "Use $academic-writing-rhetoric to diagnose and revise my academic section for structure, cohesion, and scholarly language."
+
+policy:
+  allow_implicit_invocation: true
